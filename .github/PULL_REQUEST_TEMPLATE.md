@@ -8,7 +8,7 @@
 
 ## Testing
 
-<!-- How you verified it works (commands + observed output) -->
+<!-- How you verified that it works (commands + observed output) -->
 
 ## Artifacts & Screenshots
 
